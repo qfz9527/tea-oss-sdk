@@ -1,5 +1,5 @@
 {
-  "name": "alibabacloud/tea-oss-sdk",
+  "name": "qfz9527/tea-oss-sdk",
   "description": "Aliyun Tea OSS SDK Library for PHP",
   "type": "library",
   "license": "Apache-2.0",
@@ -12,7 +12,7 @@
   "require": {
     "php": ">5.5",
     "alibabacloud/tea-utils": "^0.2.0",
-    "alibabacloud/tea-oss-utils": "^0.3.0",
+    "qfz9527/tea-oss-utils": "^2.0",
     "alibabacloud/tea-xml": "^0.2",
     "alibabacloud/tea-fileform": "^0.3.0",
     "alibabacloud/credentials": "^1.1"
